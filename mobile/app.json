@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Zelda Stock Watch",
+    "slug": "zelda-stock-watch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.zeldastockwatch.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.zeldastockwatch.app",
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-notifications"
+    ]
+  }
+}

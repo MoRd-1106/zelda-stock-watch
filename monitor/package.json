@@ -1,0 +1,13 @@
+{
+  "name": "zelda-stock-watch-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "monitor": "node monitor.mjs",
+    "test:rules": "node test-rules.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
